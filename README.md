@@ -57,6 +57,16 @@ If the badge is successfully set to 123, you should see: "Badge set to 123" in t
 
 ![Installed](./src/app/assets/installed.png)
 
+## Summary of Key Indicators for a Well-Functioning PWA
+
+![](./src/app/assets/storage.png)
+
+- Service Worker: Must be active for caching and offline capabilities.
+- Manifest: Properly configured for installability and native-like behavior.
+- Cache Storage: Efficient use of cache for offline functionality.
+- IndexedDB: Persistent storage of dynamic data.
+- Installability: Confirmed installable status and ready for user engagement.
+
 ---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
@@ -84,3 +94,27 @@ Run `ng e2e` to execute the end-to-end tests via a platform of our choice. To us
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+---
+
+### :100: <i>Thanks!</i>
+
+#### Now, don't be an stranger. Let's stay in touch!
+
+<a href="https://github.com/leolanese" target="_blank" rel="noopener noreferrer">
+  <img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese’s GitHub image" width="600" height="314" />
+</a>
+
+##### :radio_button: gitroll: <a href="https://gitroll.io/profile/uCOZ9SM8b7ne9h17NuPuKVky9uFh2" target="_blank">LeoLanese</a>
+
+##### :radio_button: Linkedin: <a href="https://www.linkedin.com/in/leolanese/" target="_blank">LeoLanese</a>
+
+##### :radio_button: Twitter: <a href="https://twitter.com/LeoLanese" target="_blank">@LeoLanese</a>
+
+##### :radio_button: Portfolio: <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
+
+##### :radio_button: DEV.to: <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
+
+##### :radio_button: Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
+
+##### :radio_button: Questions / Suggestion / Recommendation: developer@leolanese.com
