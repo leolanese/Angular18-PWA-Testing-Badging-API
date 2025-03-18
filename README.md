@@ -1,4 +1,4 @@
-# Angular (18+) PWA - Testing Badging API
+# Angular (18+) PWA - App Badging API
 
 > Testing the Badging API involves checking how well our application interacts with the API, specifically for managing badges (like notifications) on a user’s device.
 
